@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Academic</title>
-    <link>max1412.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2019 22:36:08 +0200</lastBuildDate>
     
-	<atom:link href="max1412.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>max1412.github.io/tags/c&#43;&#43;/</link>
+      <link>/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
       
-      <guid>max1412.github.io/tags/c&#43;&#43;/</guid>
+      <guid>/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RTX</title>
-      <link>max1412.github.io/tags/rtx/</link>
+      <link>/tags/rtx/</link>
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
       
-      <guid>max1412.github.io/tags/rtx/</guid>
+      <guid>/tags/rtx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vulkan</title>
-      <link>max1412.github.io/tags/vulkan/</link>
+      <link>/tags/vulkan/</link>
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
       
-      <guid>max1412.github.io/tags/vulkan/</guid>
+      <guid>/tags/vulkan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ray tracing</title>
-      <link>max1412.github.io/tags/ray-tracing/</link>
+      <link>/tags/ray-tracing/</link>
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
       
-      <guid>max1412.github.io/tags/ray-tracing/</guid>
+      <guid>/tags/ray-tracing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rendering</title>
-      <link>max1412.github.io/tags/rendering/</link>
+      <link>/tags/rendering/</link>
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
       
-      <guid>max1412.github.io/tags/rendering/</guid>
+      <guid>/tags/rendering/</guid>
       <description></description>
     </item>
     
