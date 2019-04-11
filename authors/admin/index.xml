@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Academic</title>
+    <link>max1412.github.io/authors/admin/</link>
+    <description>Recent content in admin on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="max1412.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>max1412.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>max1412.github.io/author/admin/</guid>
+      <description>I am a M.Sc. Student of Computational Visualistics at the University of Koblenz-Landau, currently working on my master thesis about hybrid ray tracing using C++ and Vulkan. I am passionate about all things rendering, be it ray tracing, rasterization, visualization. Other interests and skills include computer vision/image processing, 3D math and general programming, using mainly C++. Welcome to my portfolio page, where you can find everything about my projects, my skills and my education.</description>
+    </item>
+    
+  </channel>
+</rss>

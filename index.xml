@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>max1412.github.io/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2019 22:36:08 +0200</lastBuildDate>
+    <atom:link href="max1412.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>max1412.github.io/project/master-thesis/</link>
+      <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
+      
+      <guid>max1412.github.io/project/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volumetric Lighting</title>
+      <link>max1412.github.io/project/volumetric/</link>
+      <pubDate>Sun, 07 Apr 2019 22:41:24 +0200</pubDate>
+      
+      <guid>max1412.github.io/project/volumetric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGL Playground Project</title>
+      <link>max1412.github.io/project/opengl-fun/</link>
+      <pubDate>Sun, 08 Apr 2018 22:47:34 +0200</pubDate>
+      
+      <guid>max1412.github.io/project/opengl-fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehrenbreitstein Fortress Light Festival</title>
+      <link>max1412.github.io/project/festungsleuchten/</link>
+      <pubDate>Sat, 08 Apr 2017 22:45:54 +0200</pubDate>
+      
+      <guid>max1412.github.io/project/festungsleuchten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>max1412.github.io/project/ba-thesis/</link>
+      <pubDate>Fri, 08 Apr 2016 22:46:25 +0200</pubDate>
+      
+      <guid>max1412.github.io/project/ba-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVARK</title>
+      <link>max1412.github.io/project/cvark/</link>
+      <pubDate>Wed, 08 Apr 2015 22:45:45 +0200</pubDate>
+      
+      <guid>max1412.github.io/project/cvark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
