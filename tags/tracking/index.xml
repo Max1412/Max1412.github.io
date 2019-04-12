@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tracking on Maximilian Mader</title>
+    <link>/tags/tracking/</link>
+    <description>Recent content in tracking on Maximilian Mader</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2016 22:46:25 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>/project/ba-thesis/</link>
+      <pubDate>Fri, 08 Apr 2016 22:46:25 +0200</pubDate>
+      
+      <guid>/project/ba-thesis/</guid>
+      <description>&lt;b&gt;3D Model-Based Tracking in Augmented Reality using a Particle Filter&lt;/b&gt;&lt;br&gt;
+For my bachelor thesis, I implemented a GPU accelerated 3D model based tracker using C++, OpenGL and CUDA
+with a Kinect v2 for RGBD data.
+The focus lied on using previously-scanned 3D models and evaluating different likelihood evaluation methods
+for selecting the best poses for the particle filter.</description>
+    </item>
+    
+  </channel>
+</rss>

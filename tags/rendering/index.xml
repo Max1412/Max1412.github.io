@@ -6,20 +6,20 @@
     <description>Recent content in rendering on Maximilian Mader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2019 22:36:08 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 22:41:24 +0200</lastBuildDate>
     
 	<atom:link href="/tags/rendering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Master Thesis</title>
-      <link>/project/master-thesis/</link>
-      <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
+      <title>Volumetric Lighting</title>
+      <link>/project/volumetric/</link>
+      <pubDate>Sun, 07 Apr 2019 22:41:24 +0200</pubDate>
       
-      <guid>/project/master-thesis/</guid>
-      <description>&lt;b&gt;Hybrid Ray Tracing with Vulkan and RTX&lt;/b&gt; &lt;br&gt;
-For my master thesis, I&amp;rsquo;m creating a hybrid renderer which combines traditional rasterization techniques with ray traced effects
-such as soft shadows, reflections and ambient occlusion. I&amp;rsquo;m using Vulkan, C++ and NVIDIAs RTX technology.</description>
+      <guid>/project/volumetric/</guid>
+      <description>&lt;b&gt;Froxel-based real-time volumetric fog&lt;/b&gt; &lt;br&gt;
+We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in &lt;a href=&#34;https://books.google.de/books?hl=en&amp;amp;lr=&amp;amp;id=30ZOCgAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PA217&amp;amp;dq=gpu+pro+6+volumetric+wronski&amp;amp;ots=2ZfubWDDFI&amp;amp;sig=P611iciYxczkBTD5LDngvBYPN10&amp;amp;redir_esc=y#v=onepage&amp;amp;q=gpu%20pro%206%20volumetric%20wronski&amp;amp;f=false&#34; target=&#34;_blank&#34;&gt;Volumetric Fog and Lighting&lt;/a&gt; (GPU Pro 6). We used OpenGL 4.6 and C++17 and our team consisted of Felix Schröder (&lt;a href=&#34;https://twitter.com/flx_schroeder&#34; target=&#34;_blank&#34;&gt;@flx_schroeder&lt;/a&gt;), Darius Thies and me.
+We presented our results at the &lt;a href=&#34;https://userpages.uni-koblenz.de/~cvtag/web/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;CV-Tag&amp;rdquo;&lt;/a&gt; 2018.</description>
     </item>
     
   </channel>

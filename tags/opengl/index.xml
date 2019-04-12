@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C&#43;&#43; on Maximilian Mader</title>
-    <link>/tags/c&#43;&#43;/</link>
-    <description>Recent content in C&#43;&#43; on Maximilian Mader</description>
+    <title>OpenGL on Maximilian Mader</title>
+    <link>/tags/opengl/</link>
+    <description>Recent content in OpenGL on Maximilian Mader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2019 22:36:08 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 22:41:24 +0200</lastBuildDate>
     
-	<atom:link href="/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Master Thesis</title>
-      <link>/project/master-thesis/</link>
-      <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
-      
-      <guid>/project/master-thesis/</guid>
-      <description>&lt;b&gt;Hybrid Ray Tracing with Vulkan and RTX&lt;/b&gt; &lt;br&gt;
-For my master thesis, I&amp;rsquo;m creating a hybrid renderer which combines traditional rasterization techniques with ray traced effects
-such as soft shadows, reflections and ambient occlusion. I&amp;rsquo;m using Vulkan, C++ and NVIDIAs RTX technology.</description>
-    </item>
     
     <item>
       <title>Volumetric Lighting</title>
@@ -44,20 +33,6 @@ My OpenGL framework uses C++17 and OpenGL 4.6 and is used for personal
 and university projects, small demos and experiments. It uses modern
 approaches to GPU-driven rendering like &lt;a href=&#34;https://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead&#34; target=&#34;_blank&#34;&gt;AZDO&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Direct_State_Access&#34; target=&#34;_blank&#34;&gt;DSA&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Bindless_Texture&#34; target=&#34;_blank&#34;&gt;bindless textures&lt;/a&gt; and &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Vertex_Rendering#Indirect_rendering&#34; target=&#34;_blank&#34;&gt;indirect multi-draw&lt;/a&gt; and makes heavy usage of compute shaders and SSBOs.
 It contains code for model loading, processing, rendering, live-reloading for shaders, easy debugging and a practical and condensed abstraction over OpenGL.</description>
-    </item>
-    
-    <item>
-      <title>Ehrenbreitstein Fortress Light Festival</title>
-      <link>/project/festungsleuchten/</link>
-      <pubDate>Sat, 08 Apr 2017 22:45:54 +0200</pubDate>
-      
-      <guid>/project/festungsleuchten/</guid>
-      <description>&lt;b&gt;Interactive Art Installation&lt;/b&gt;&lt;br&gt;
-As a group project in the &lt;a href=&#34;https://userpages.uni-koblenz.de/~digitalmedia/&#34; target=&#34;_blank&#34;&gt;working group digital media&lt;/a&gt; at the University of Koblenz
-we created an interactive art installation at the &lt;a href=&#34;http://www.festungsleuchten.de/&#34; target=&#34;_blank&#34;&gt;Ehrenbreitstein Fortress Light Festival&lt;/a&gt;
-We used a Microsoft Kinect v2, Unreal Engine 4, stage technology (DMX) and a multi-projector
-installation to project peoples movements as shadows to historic environments, linking the Ehrenbreitstein Fortress as it is today
-to its past interactively.</description>
     </item>
     
     <item>

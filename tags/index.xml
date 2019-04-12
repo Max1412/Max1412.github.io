@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>computer graphics</title>
+      <link>/tags/computer-graphics/</link>
+      <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
+      
+      <guid>/tags/computer-graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ray tracing</title>
       <link>/tags/ray-tracing/</link>
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
@@ -48,11 +57,56 @@
     </item>
     
     <item>
+      <title>OpenGL</title>
+      <link>/tags/opengl/</link>
+      <pubDate>Sun, 07 Apr 2019 22:41:24 +0200</pubDate>
+      
+      <guid>/tags/opengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>rendering</title>
       <link>/tags/rendering/</link>
-      <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
+      <pubDate>Sun, 07 Apr 2019 22:41:24 +0200</pubDate>
       
       <guid>/tags/rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unreal Engine 4</title>
+      <link>/tags/unreal-engine-4/</link>
+      <pubDate>Sat, 08 Apr 2017 22:45:54 +0200</pubDate>
+      
+      <guid>/tags/unreal-engine-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR</title>
+      <link>/tags/ar/</link>
+      <pubDate>Fri, 08 Apr 2016 22:46:25 +0200</pubDate>
+      
+      <guid>/tags/ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUDA</title>
+      <link>/tags/cuda/</link>
+      <pubDate>Fri, 08 Apr 2016 22:46:25 +0200</pubDate>
+      
+      <guid>/tags/cuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tracking</title>
+      <link>/tags/tracking/</link>
+      <pubDate>Fri, 08 Apr 2016 22:46:25 +0200</pubDate>
+      
+      <guid>/tags/tracking/</guid>
       <description></description>
     </item>
     

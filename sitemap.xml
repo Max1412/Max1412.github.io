@@ -50,6 +50,13 @@
   
     <url>
     
+      <loc>/tags/computer-graphics/</loc>
+      <lastmod>2019-04-08T22:36:08+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/tags/ray-tracing/</loc>
       <lastmod>2019-04-08T22:36:08+02:00</lastmod>
       <priority>0</priority>
@@ -57,8 +64,8 @@
   
     <url>
     
-      <loc>/tags/rendering/</loc>
-      <lastmod>2019-04-08T22:36:08+02:00</lastmod>
+      <loc>/tags/opengl/</loc>
+      <lastmod>2019-04-07T22:41:24+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -66,6 +73,13 @@
     
       <loc>/project/volumetric/</loc>
       <lastmod>2019-04-07T22:41:24+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/rendering/</loc>
+      <lastmod>2019-04-07T22:41:24+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -82,8 +96,36 @@
   
     <url>
     
+      <loc>/tags/unreal-engine-4/</loc>
+      <lastmod>2017-04-08T22:45:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/ar/</loc>
+      <lastmod>2016-04-08T22:46:25+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/project/ba-thesis/</loc>
       <lastmod>2016-04-08T22:46:25+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/cuda/</loc>
+      <lastmod>2016-04-08T22:46:25+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/tracking/</loc>
+      <lastmod>2016-04-08T22:46:25+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
