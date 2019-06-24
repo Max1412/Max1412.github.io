@@ -4,11 +4,11 @@
     <title>OpenGL on Maximilian Mader</title>
     <link>/tags/opengl/</link>
     <description>Recent content in OpenGL on Maximilian Mader</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 22:41:24 +0200</lastBuildDate>
     
-	<atom:link href="/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,7 @@
       <pubDate>Sun, 07 Apr 2019 22:41:24 +0200</pubDate>
       
       <guid>/project/volumetric/</guid>
-      <description>&lt;b&gt;Froxel-based real-time volumetric fog&lt;/b&gt; &lt;br&gt;
-We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in &lt;a href=&#34;https://books.google.de/books?hl=en&amp;amp;lr=&amp;amp;id=30ZOCgAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PA217&amp;amp;dq=gpu+pro+6+volumetric+wronski&amp;amp;ots=2ZfubWDDFI&amp;amp;sig=P611iciYxczkBTD5LDngvBYPN10&amp;amp;redir_esc=y#v=onepage&amp;amp;q=gpu%20pro%206%20volumetric%20wronski&amp;amp;f=false&#34; target=&#34;_blank&#34;&gt;Volumetric Fog and Lighting&lt;/a&gt; (GPU Pro 6). We used OpenGL 4.6 and C++17 and our team consisted of Felix Schröder (&lt;a href=&#34;https://twitter.com/flx_schroeder&#34; target=&#34;_blank&#34;&gt;@flx_schroeder&lt;/a&gt;), Darius Thies and me.
-We presented our results at the &lt;a href=&#34;https://userpages.uni-koblenz.de/~cvtag/web/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;CV-Tag&amp;rdquo;&lt;/a&gt; 2018.</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,11 +26,7 @@ We presented our results at the &lt;a href=&#34;https://userpages.uni-koblenz.de
       <pubDate>Sun, 08 Apr 2018 22:47:34 +0200</pubDate>
       
       <guid>/project/opengl-fun/</guid>
-      <description>&lt;b&gt;Modern OpenGL framework for prototyping and small projects&lt;/b&gt;&lt;br&gt;
-My OpenGL framework uses C++17 and OpenGL 4.6 and is used for personal
-and university projects, small demos and experiments. It uses modern
-approaches to GPU-driven rendering like &lt;a href=&#34;https://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead&#34; target=&#34;_blank&#34;&gt;AZDO&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Direct_State_Access&#34; target=&#34;_blank&#34;&gt;DSA&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Bindless_Texture&#34; target=&#34;_blank&#34;&gt;bindless textures&lt;/a&gt; and &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Vertex_Rendering#Indirect_rendering&#34; target=&#34;_blank&#34;&gt;indirect multi-draw&lt;/a&gt; and makes heavy usage of compute shaders and SSBOs.
-It contains code for model loading, processing, rendering, live-reloading for shaders, easy debugging and a practical and condensed abstraction over OpenGL.</description>
+      <description></description>
     </item>
     
     <item>
@@ -41,11 +35,7 @@ It contains code for model loading, processing, rendering, live-reloading for sh
       <pubDate>Fri, 08 Apr 2016 22:46:25 +0200</pubDate>
       
       <guid>/project/ba-thesis/</guid>
-      <description>&lt;b&gt;3D Model-Based Tracking in Augmented Reality using a Particle Filter&lt;/b&gt;&lt;br&gt;
-For my bachelor thesis, I implemented a GPU accelerated 3D model based tracker using C++, OpenGL and CUDA
-with a Kinect v2 for RGBD data.
-The focus lied on using previously-scanned 3D models and evaluating different likelihood evaluation methods
-for selecting the best poses for the particle filter.</description>
+      <description></description>
     </item>
     
     <item>
@@ -54,13 +44,7 @@ for selecting the best poses for the particle filter.</description>
       <pubDate>Wed, 08 Apr 2015 22:45:45 +0200</pubDate>
       
       <guid>/project/cvark/</guid>
-      <description>&lt;b&gt;AR-Framework&lt;/b&gt;&lt;br&gt;
-In this group project, we developed the augmented reality framework &amp;ldquo;CVARK&amp;rdquo; and
-implemented an AR game. We used C++, OpenGL, CUDA, OpenCV, PhysX.
-My responsibilty included implementing occlusion and collsion
-between real-world and virtual objects.
-We presented our technology and game at the &lt;a href=&#34;https://userpages.uni-koblenz.de/~cvtag/web/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;CV-Tag&amp;rdquo;&lt;/a&gt; 2016
-and the &lt;a href=&#34;https://hwk-koblenz.de/presse-medien/termine-veranstaltungen/nacht-der-technik/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Nacht der Technik&amp;rdquo;&lt;/a&gt; 2016.</description>
+      <description></description>
     </item>
     
   </channel>

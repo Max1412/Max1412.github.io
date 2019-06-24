@@ -4,10 +4,10 @@
     <title>Categories on Maximilian Mader</title>
     <link>/categories/</link>
     <description>Recent content in Categories on Maximilian Mader</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

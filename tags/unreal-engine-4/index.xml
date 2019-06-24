@@ -4,11 +4,11 @@
     <title>Unreal Engine 4 on Maximilian Mader</title>
     <link>/tags/unreal-engine-4/</link>
     <description>Recent content in Unreal Engine 4 on Maximilian Mader</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Apr 2017 22:45:54 +0200</lastBuildDate>
     
-	<atom:link href="/tags/unreal-engine-4/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/unreal-engine-4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,12 +17,7 @@
       <pubDate>Sat, 08 Apr 2017 22:45:54 +0200</pubDate>
       
       <guid>/project/festungsleuchten/</guid>
-      <description>&lt;b&gt;Interactive Art Installation&lt;/b&gt;&lt;br&gt;
-As a group project in the &lt;a href=&#34;https://userpages.uni-koblenz.de/~digitalmedia/&#34; target=&#34;_blank&#34;&gt;working group digital media&lt;/a&gt; at the University of Koblenz
-we created an interactive art installation at the &lt;a href=&#34;http://www.festungsleuchten.de/&#34; target=&#34;_blank&#34;&gt;Ehrenbreitstein Fortress Light Festival&lt;/a&gt;
-We used a Microsoft Kinect v2, Unreal Engine 4, stage technology (DMX) and a multi-projector
-installation to project peoples movements as shadows to historic environments, linking the Ehrenbreitstein Fortress as it is today
-to its past interactively.</description>
+      <description></description>
     </item>
     
   </channel>

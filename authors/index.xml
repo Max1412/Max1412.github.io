@@ -4,19 +4,24 @@
     <title>Authors on Maximilian Mader</title>
     <link>/authors/</link>
     <description>Recent content in Authors on Maximilian Mader</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>admin</title>
+      <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description></description>
+      <description>&lt;p&gt;I am a M.Sc. Student of Computational Visualistics at the University of Koblenz-Landau who
+recently submitted his master thesis about hybrid ray tracing using C++ and Vulkan with RTX.
+I am passionate about all things rendering, be it ray tracing, rasterization, visualization.
+Other interests and skills include computer vision/image processing, 3D math and general programming,
+using mainly C++. Welcome to my portfolio page, where you can find everything about my projects, my skills and my education.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

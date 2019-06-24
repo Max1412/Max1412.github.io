@@ -4,11 +4,11 @@
     <title>computer graphics on Maximilian Mader</title>
     <link>/tags/computer-graphics/</link>
     <description>Recent content in computer graphics on Maximilian Mader</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2019 22:36:08 +0200</lastBuildDate>
     
-	<atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 08 Apr 2019 22:36:08 +0200</pubDate>
       
       <guid>/project/master-thesis/</guid>
-      <description>&lt;b&gt;Hybrid Ray Tracing with Vulkan and RTX&lt;/b&gt; &lt;br&gt;
-For my master thesis, I&amp;rsquo;m creating a hybrid renderer which combines traditional rasterization techniques with ray traced effects
-such as soft shadows, reflections and ambient occlusion. I&amp;rsquo;m using Vulkan, C++ and NVIDIAs RTX technology.</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ such as soft shadows, reflections and ambient occlusion. I&amp;rsquo;m using Vul
       <pubDate>Sun, 07 Apr 2019 22:41:24 +0200</pubDate>
       
       <guid>/project/volumetric/</guid>
-      <description>&lt;b&gt;Froxel-based real-time volumetric fog&lt;/b&gt; &lt;br&gt;
-We implemented the frustum-aligned voxel-grid based volumetric lighting algorithm presented by Bartlomiej Wronski in &lt;a href=&#34;https://books.google.de/books?hl=en&amp;amp;lr=&amp;amp;id=30ZOCgAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PA217&amp;amp;dq=gpu+pro+6+volumetric+wronski&amp;amp;ots=2ZfubWDDFI&amp;amp;sig=P611iciYxczkBTD5LDngvBYPN10&amp;amp;redir_esc=y#v=onepage&amp;amp;q=gpu%20pro%206%20volumetric%20wronski&amp;amp;f=false&#34; target=&#34;_blank&#34;&gt;Volumetric Fog and Lighting&lt;/a&gt; (GPU Pro 6). We used OpenGL 4.6 and C++17 and our team consisted of Felix Schröder (&lt;a href=&#34;https://twitter.com/flx_schroeder&#34; target=&#34;_blank&#34;&gt;@flx_schroeder&lt;/a&gt;), Darius Thies and me.
-We presented our results at the &lt;a href=&#34;https://userpages.uni-koblenz.de/~cvtag/web/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;CV-Tag&amp;rdquo;&lt;/a&gt; 2018.</description>
+      <description></description>
     </item>
     
     <item>
@@ -39,11 +35,7 @@ We presented our results at the &lt;a href=&#34;https://userpages.uni-koblenz.de
       <pubDate>Sun, 08 Apr 2018 22:47:34 +0200</pubDate>
       
       <guid>/project/opengl-fun/</guid>
-      <description>&lt;b&gt;Modern OpenGL framework for prototyping and small projects&lt;/b&gt;&lt;br&gt;
-My OpenGL framework uses C++17 and OpenGL 4.6 and is used for personal
-and university projects, small demos and experiments. It uses modern
-approaches to GPU-driven rendering like &lt;a href=&#34;https://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead&#34; target=&#34;_blank&#34;&gt;AZDO&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Direct_State_Access&#34; target=&#34;_blank&#34;&gt;DSA&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Bindless_Texture&#34; target=&#34;_blank&#34;&gt;bindless textures&lt;/a&gt; and &lt;a href=&#34;https://www.khronos.org/opengl/wiki/Vertex_Rendering#Indirect_rendering&#34; target=&#34;_blank&#34;&gt;indirect multi-draw&lt;/a&gt; and makes heavy usage of compute shaders and SSBOs.
-It contains code for model loading, processing, rendering, live-reloading for shaders, easy debugging and a practical and condensed abstraction over OpenGL.</description>
+      <description></description>
     </item>
     
   </channel>
